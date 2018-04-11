@@ -7,7 +7,7 @@ class App extends Component {
             <div>
                 <h1>Start by Changing App.js!</h1>
                 <p>It's inside the components folder :)</p>
-                <p>This will begin the React App.</p>
+                <p>This will begin the React App</p>
             </div>
         )
     }

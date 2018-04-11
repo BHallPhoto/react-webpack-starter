@@ -1,7 +1,7 @@
 {
-  "name": "react-webpack-starter",
+  "name": "levi-ecommerce",
   "version": "1.0.0",
-  "description": "Boilerplate for React apps",
+  "description": "Levi, 'Mystic Seed Pinecones'",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
